@@ -23,8 +23,6 @@ gem_spec = Gem::Specification.new do |s|
     "LICENSE",
     "README.rdoc",
     "Rakefile",
-#     "examples/functional.rb",
-#     "examples/objectoriented.rb",
     "lib/pidfile.rb",
   ] + s.test_files
 end
