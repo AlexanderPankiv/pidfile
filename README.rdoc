@@ -4,7 +4,7 @@ http://github.com/samullen/pidfile
 
 A basic library for creating lockfiles for processes
 
-This library works with Ruby 1.8 and 1.9 and is licensed under the MIT License.
+This library works with Ruby 1.8, 1.9 and 3.2 and is licensed under the MIT License.
 
 == Installation
 
